@@ -8,4 +8,4 @@
 - Settings Page
 
 ### GIF walkthrough of all required and optional stories 
-
+![alt](https://raw.githubusercontent.com/anooptomar1/tipCalcSwift/master/screenshot/tipCalc.gif)
